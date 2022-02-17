@@ -1,2 +1,2 @@
-IO.puts "Hello world!"
-IO.warn "eek"
+string = :world
+IO.puts("Hellö #{string}")
